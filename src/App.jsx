@@ -39,6 +39,7 @@ const App = () => {
       window.removeEventListener("hashchange", trackPageView);
     };
   }, []);
+
   return (
     <>
       <Navbar />
