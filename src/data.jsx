@@ -121,7 +121,7 @@ export const projects = [
     url: "https://siras.netlify.app/",
     github: "https://github.com/musemulatu",
     title: "Siras Jobs",
-    text: "Your career starts here. Explore thousands of job listings, connect with employers, and find your dream job today!",
+    text: "Your career starts here. Explore thousands of job listings, connect with employers, and find your dream job today! React, Tailwind CSS.",
   },
   {
     id: nanoid(),
@@ -134,7 +134,7 @@ export const projects = [
   {
     id: nanoid(),
     img: "https://images.pexels.com/photos/577210/pexels-photo-577210.jpeg?auto=compress&cs=tinysrgb&w=800",
-    url: "https://savdemy.com/",
+    url: "https://colab.research.google.com/drive/1HoM8M9gX6JmP1cn08DIv32EZojxgcD9E?authuser=0#scrollTo=0r1ce3A6rXTg",
     github: "https://github.com/musemulatu",
     title: "Coffee Exports Data Prediction and Analysis Model",
     text: "Jupyter Notebook On Coffee Exports Data Exploratory Analysis, Feature Engineering and Prediction Models by Python, NumPy, Pandas, MatplotLib and Sckit-Learn",
