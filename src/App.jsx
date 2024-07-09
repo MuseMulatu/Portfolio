@@ -43,10 +43,11 @@ const App = () => {
   return (
     <>
       <Navbar />
-      <Hero />
+      <Hero /> 
+      <Projects />
       <Skills />
       <About />
-      <Projects />
+
     </>
   );
 };

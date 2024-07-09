@@ -8,10 +8,10 @@ const Hero = () => {
         <article>
           <h1 className="text-7xl font-bold tracking-wider">I'm Muse</h1>
           <p className="mt-4 text-3xl text-slate-700 capitalize tracking-wide">
-            Front-End Developer
+            Full-stack Developer 
           </p>
           <p className="mt-2 text-lg text-slate-700 capitalize tracking-wide">
-            turning ideas into interactive reality
+          specializing in Front-End Technologies. Turning ideas into reality!
           </p>
           <div className="flex gap-x-4 mt-4">
             <a href="https://github.com/musemulatu">
