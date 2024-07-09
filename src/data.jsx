@@ -113,7 +113,7 @@ export const projects = [
     url: "https://storify-gamma.vercel.app/",
     github: "https://github.com/musemulatu",
     title: "Storify E-Commerce Store",
-    text: "Discover top-quality products at unbeatable prices. Shop now for the latest in fashion, electronics, home goods, and more!",
+    text: "An E-commerce store with full functionality made by React, Next Js, Redux and Tailwind",
   },
   {
     id: nanoid(),
@@ -121,7 +121,15 @@ export const projects = [
     url: "https://siras.netlify.app/",
     github: "https://github.com/musemulatu",
     title: "Siras Jobs",
-    text: "Your career starts here. Explore thousands of job listings, connect with employers, and find your dream job today! React, Tailwind CSS.",
+    text: "A Job portal project to help people explore thousands of job listings, connect with employers, post, edit, delete and find their dream jobs easily! React, Tailwind CSS.",
+  },
+  {
+    id: nanoid(),
+    img: "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&w=800",
+    url: "https://ethsnake.netlify.app",
+    github: "https://github.com/musemulatu",
+    title: "Snake Game",
+    text: "A custom version of the popular snake game. paint the snake in the colors of the Ethiopian flag to win. Built with Typescript and React.",
   },
   {
     id: nanoid(),
@@ -129,7 +137,7 @@ export const projects = [
     url: "https://savdemy.com/",
     github: "https://github.com/musemulatu",
     title: "Online Learning Platform",
-    text: "Transform your learning experience with our comprehensive LMS. Access courses, track progress, and achieve your educational goals efficiently.",
+    text: "A comprehensive Learning Management System project. Access courses, track progress, Question and answer section with instructors, review section, quizzes and a certificate at the end of courses!",
   },
   {
     id: nanoid(),
