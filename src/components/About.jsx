@@ -6,7 +6,7 @@ const About = () => {
       <div className="align-element grid md:grid-cols-2 items-center gap-16">
         <img src={aboutSvg} className="w-full h-64" />
         <article>
-          <SectionTitle text="code and coffee" />
+          <SectionTitle text="About Me" />
           <p className="text-slate-600 mt-8 leading-loose">
             Over two years of experience in developing modern, reactive user
             interfaces with a keen eye for design and detail, specializing in
