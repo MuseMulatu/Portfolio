@@ -131,6 +131,14 @@ export const projects = [
     title: "Snake Game",
     text: "A custom version of the popular snake game. paint the snake in the colors of the Ethiopian flag to win. Built with Typescript and React.",
   },
+    {
+    id: nanoid(),
+    img: "https://images.pexels.com/photos/220055/pexels-photo-220055.jpeg?auto=compress&cs=tinysrgb&w=800",
+    url: "https://musemulatu.github.io/tic-tac-toe",
+    github: "https://github.com/musemulatu",
+    title: "Tic-Tac-Toe",
+    text: "Tic-tac-toe, noughts and crosses, or Xs and Os is a game for two players who take turns marking the spaces in a three-by-three grid with X or O. Built with React, CSS in JS, and Webpack",
+  },
   {
     id: nanoid(),
     img: "https://images.pexels.com/photos/6392975/pexels-photo-6392975.jpeg?auto=compress&cs=tinysrgb&w=800",
